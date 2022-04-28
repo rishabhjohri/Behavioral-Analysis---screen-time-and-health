@@ -1,0 +1,259 @@
+Age,Sex,Height,Weight,Job,ExerciseFrequency,ExerciseToughness,Necessary Screen Time,ProductiveScreenTime,SocialMedia,VideoGames,OnlineShopping,Binge Watching,Ebooks,OptimumScreenTime,NumberOfDevices ,HumanInteraction,sleep
+teen,Female,1.6,50,Student,never,4,9,7,3,5,4,6,4,5,2,1,6 to 8 hours
+teen,Female,1.575,77,Science and Technology,3 to 5 days a week,6,8,6,1,0,0,2,0,5,2,3,6 to 8 hours
+young,Female,1.651,50,Student,3 to 5 days a week,8,6,6,1,0,0,1,2,5,3,3,6 to 8 hours
+teen,Female,1.626,80,"Glamour industry (modelling , acting , music , etc)",never,0,10,10,10,10,10,10,10,10,10,10,more than 8 hours
+young,Male,1.829,62,Student,Once every day,4,9,4,1,0,1,1,1,6,3,2,6 to 8 hours
+young,Male,1.651,60,Student,rarely,0,10,8,0,2,0,1,0,2,1,2,6 to 8 hours
+old,Female,1.575,57,"Social media based industry ( instagram influencer , youtuber , etc )",Once every day,6,5,2,2,0,0,3,1,5,3,3,6 to 8 hours
+old,Female,1.6,51,Science and Technology;Student,rarely,7,8,8,6,0,0,6,0,5,2,2,6 to 8 hours
+teen,Male,1.829,75,Student,rarely,3,4,3,6,4,4,6,4,5,2,1,more than 8 hours
+old,Male,1.702,72,Science and Technology,6 days a week,9,4,1,1,0,1,1,1,9,2,6,less than 6 hours
+teen,Female,1.651,60,Student,Once every day,5,5,1,5,0,0,5,0,4,3,2,6 to 8 hours
+young,Male,1.8291,80,Science and Technology;Student,Once every day,5,5,6,0,0,0,4,0,2,2,4,more than 8 hours
+teen,Male,1.803,79,Student,rarely,0,7,3,1,5,0,3,0,2,2,2,6 to 8 hours
+old,Male,1.676,73,Science and Technology;Management and Administration,3 to 5 days a week,10,4,1,1,0,0,1,1,9,2,7,6 to 8 hours
+young,Male,1.8291,79,Science and Technology;Student,never,0,10,10,3,1,0,5,0,4,2,1,6 to 8 hours
+teen,Male,1.727,78,Student,rarely,9,10,2,9,0,1,3,1,5,2,3,6 to 8 hours
+young,Female,1.6,56,Science and Technology;Student,rarely,2,5,5,2,0,0,1,0,3,2,1,6 to 8 hours
+teen,Female,1.575,50,Student,Once every day,6,5,1,2,1,0,3,0,4,4,3,6 to 8 hours
+teen,Female,1.626,60,Student,Once every day,4,6,2,1,0,0,1,0,3,2,3,6 to 8 hours
+young,Male,1.778,82,Science and Technology;Student,3 to 5 days a week,7,7,5,3,1,0,2,1,2,5,1,6 to 8 hours
+teen,Female,1.778,68,Science and Technology;Student,Once every day,8,10,5,6,0,0,2,1,5,3,5,6 to 8 hours
+young,Female,1.626,54,Science and Technology,rarely,1,9,6,4,0,1,7,0,3,2,2,less than 6 hours
+young,Male,1.5249,78,Student,Only on week-ends ( or 2 days a week),5,8,5,6,0,1,5,4,6,2,5,6 to 8 hours
+old,Female,1.524,38,Science and Technology;Student,never,0,9,9,5,1,1,1,0,7,3,2,6 to 8 hours
+young,Female,1.5241,45,Science and Technology,Once every day,5,9,5,7,0,2,8,8,3,2,5,6 to 8 hours
+young,Female,1.651,60,Science and Technology;Marketing;Student,3 to 5 days a week,7,6,2,6,0,1,2,0,5,4,2,less than 6 hours
+young,Female,1.6,75,Science and Technology;Student,Only on week-ends ( or 2 days a week),5,10,9,1,0,0,3,0,10,3,2,6 to 8 hours
+young,Female,1.5241,65,Science and Technology,once a week,1,10,8,2,0,1,3,10,10,2,2,less than 6 hours
+teen,Male,1.5249,70,Student,Only on week-ends ( or 2 days a week),6,5,6,2,0,1,3,0,4,2,3,6 to 8 hours
+young,Female,5.4,59,Science and Technology,Once every day,7,7,2,0,0,0,1,0,1,2,1,6 to 8 hours
+teen,Male,1.5249,67,"Student;Freelancer;Social media based industry ( instagram influencer , youtuber , etc )",rarely,2,6,5,1,0,0,1,0,3,2,1,6 to 8 hours
+young,Male,1.524,57,Student,rarely,5,10,2,2,2,0,2,0,6,2,2,6 to 8 hours
+young,Male,1.8292,85,Science and Technology,Once every day,7,7,1,1,3,1,1,0,5,2,6,6 to 8 hours
+teen,Male,1.702,70,Student,3 to 5 days a week,4,10,4,4,1,1,2,1,5,2,2,6 to 8 hours
+young,Male,1.727,78,Science and Technology,6 days a week,10,6,4,1,0,0,0,1,1,3,1,6 to 8 hours
+teen,Male,1.676,57,Student,rarely,2,10,5,3,0,1,1,2,10,2,5,6 to 8 hours
+young,Female,1.727,54,Science and Technology;Student,Only on week-ends ( or 2 days a week),5,10,7,3,0,2,2,0,5,3,3,less than 6 hours
+teen,Female,1.626,62,Student,once a week,7,6,1,1,2,0,2,2,4,2,2,6 to 8 hours
+young,Female,1.575,50,Science and Technology,never,4,5,4,1,1,0,1,2,2,2,4,6 to 8 hours
+teen,Male,1.5241,65,Student,Only on week-ends ( or 2 days a week),4,10,4,3,3,0,3,0,7,2,1,6 to 8 hours
+old,Male,1.5247,89,Science and Technology,rarely,1,10,7,1,4,0,2,1,3,2,2,6 to 8 hours
+young,Male,1.651,55,Science and Technology;Student,once a week,2,7,4,2,1,0,1,0,7,2,1,6 to 8 hours
+old,Male,1.702,82,Science and Technology;Student,Only on week-ends ( or 2 days a week),5,5,3,0,0,0,2,0,10,2,1,6 to 8 hours
+teen,Male,1.524,65,Student,once a week,1,10,9,3,1,0,3,2,8,2,5,6 to 8 hours
+teen,Male,1.803,79,Student,rarely,0,6,4,1,2,0,2,0,4,2,8,6 to 8 hours
+young,Male,1.5249,67.5,Science and Technology;Student,Once every day,8,4,3,0,0,0,2,0,4,2,2,6 to 8 hours
+young,Male,1.5249,75,Science and Technology,3 to 5 days a week,4,8,6,3,0,1,2,0,4,2,3,6 to 8 hours
+old,Male,1.702,72,Science and Technology,never,0,6,7,2,0,0,2,0,6,3,4,6 to 8 hours
+young,Male,1.5249,77,Student,3 to 5 days a week,8,6,5,2,2,1,2,0,7,4,5,less than 6 hours
+teen,Male,1.65,76,Student,rarely,7,3,6,2,0,1,2,0,3,3,1,6 to 8 hours
+teen,Male,5.84,83,Student,rarely,8,9,6,3,7,8,7,8,3,8,7,more than 8 hours
+young,Male,1.651,64,Science and Technology;Student,Only on week-ends ( or 2 days a week),6,8,4,3,1,0,1,0,5,2,1,less than 6 hours
+young,Female,1.575,55,Science and Technology;Student,once a week,5,5,3,0,1,1,2,3,8,3,3,6 to 8 hours
+teen,Male,1.5247,80,Student,rarely,1,6,3,3,1,0,2,0,3,3,1,less than 6 hours
+young,Male,1.5249,65,Science and Technology;Student,Only on week-ends ( or 2 days a week),2,7,4,2,2,0,1,1,3,2,2,6 to 8 hours
+teen,Male,1.803,67,Student,6 days a week,10,5,8,1,0,0,1,3,4,3,4,6 to 8 hours
+teen,Female,1.626,52,Science and Technology;Student,once a week,4,10,7,2,0,0,1,0,4,2,2,6 to 8 hours
+young,Female,1.52,53,Student,rarely,8,8,5,5,0,0,3,3,2,2,6,6 to 8 hours
+young,Male,1.778,70,Science and Technology;Student,3 to 5 days a week,3,10,8,3,0,0,1,0,10,5,4,6 to 8 hours
+young,Female,1.5241,54,Student,Only on week-ends ( or 2 days a week),2,4,2,4,1,0,3,1,7,2,1,6 to 8 hours
+old,Female,1.52,43,Science and Technology,Once every day,2,7,1,0,0,0,2,0,2,4,1,6 to 8 hours
+young,Male,1.778,70,Student,3 to 5 days a week,8,5,5,5,3,0,2,0,4,5,2,6 to 8 hours
+young,Male,1.5249,63,Student,3 to 5 days a week,8,4,2,1,0,0,1,0,5,3,7,6 to 8 hours
+young,Female,1.6,47,Science and Technology,Only on week-ends ( or 2 days a week),2,5,4,3,0,0,2,1,3,3,5,6 to 8 hours
+teen,Female,1.575,42,Science and Technology;Student,rarely,1,7,2,2,0,0,0,0,1,2,1,6 to 8 hours
+young,Male,1.5249,72,Student,rarely,3,8,7,2,1,0,2,0,5,3,3,6 to 8 hours
+young,Male,1.702,68,Science and Technology;Student,rarely,8,2,3,1,1,0,1,1,5,3,1,more than 8 hours
+young,Male,1.702,76,Science and Technology;Student,rarely,4,9,8,7,7,8,7,7,6,5,7,6 to 8 hours
+young,Female,1.575,51,Student,3 to 5 days a week,5,6,3,2,0,0,0,0,5,2,2,6 to 8 hours
+young,Female,1.52,54,"Science and Technology;Management and Administration;Social media based industry ( instagram influencer , youtuber , etc )",never,0,10,2,10,0,1,1,0,0,4,2,6 to 8 hours
+teen,Male,1.778,75,Student,rarely,7,4,2,1,3,0,2,0,1,3,1,more than 8 hours
+young,Female,1.6,59,Science and Technology,rarely,3,6,5,2,0,0,3,0,1,2,2,6 to 8 hours
+young,Female,1.626,75,"Science and Technology;Marketing;Design and Architecture;Student;Freelancer;Social media based industry ( instagram influencer , youtuber , etc )",once a week,6,6,3,2,0,0,3,0,6,4,3,6 to 8 hours
+young,Male,1.702,82,Science and Technology;Student,3 to 5 days a week,4,10,8,1,2,0,1,0,7,2,5,6 to 8 hours
+old,Male,1.727,73,Legal,6 days a week,7,4,3,0,0,0,1,0,3,2,2,6 to 8 hours
+young,Male,1.803,84,Student,Once every day,8,7,4,4,0,0,2,0,2,3,2,6 to 8 hours
+young,Male,1.8292,95,Science and Technology,Only on week-ends ( or 2 days a week),6,10,6,4,0,0,0,0,8,4,2,6 to 8 hours
+young,Male,1.676,88,Student,3 to 5 days a week,8,4,2,1,1,0,2,0,3,3,4,6 to 8 hours
+young,Male,1.676,58,Science and Technology,3 to 5 days a week,5,7,5,2,6,2,6,5,4,4,5,6 to 8 hours
+young,Male,1.702,78,Science and Technology;Student,Only on week-ends ( or 2 days a week),7,10,6,1,6,0,10,1,10,3,0,6 to 8 hours
+teen,Male,1.626,49,Student,3 to 5 days a week,8,5,7,2,3,0,3,0,10,5,2,less than 6 hours
+teen,Female,1.575,51,Student,Only on week-ends ( or 2 days a week),2,10,7,3,0,0,0,0,7,2,2,6 to 8 hours
+young,Female,1.5247,57,Science and Technology,Once every day,5,9,2,1,0,0,0,0,10,3,2,6 to 8 hours
+young,Female,1.626,60,Science and Technology,3 to 5 days a week,8,6,1,1,0,0,0,0,3,3,4,6 to 8 hours
+young,Male,1.778,80,Student,3 to 5 days a week,6,9,3,3,4,0,2,0,7,3,3,6 to 8 hours
+young,Male,1.727,77,Student,3 to 5 days a week,9,6,4,2,1,0,1,0,6,2,0,6 to 8 hours
+young,Female,1.702,72,Student,Only on week-ends ( or 2 days a week),6,8,8,5,6,7,6,4,4,3,6,6 to 8 hours
+young,Female,1.5241,50,Science and Technology;Student,3 to 5 days a week,5,6,3,1,0,0,1,0,4,3,4,6 to 8 hours
+young,Female,1.651,60,Science and Technology,once a week,5,4,2,2,0,0,1,0,2,2,1,less than 6 hours
+young,Female,1.6,60,Science and Technology;Management and Administration;Student,once a week,5,8,3,5,4,1,1,1,3,2,5,6 to 8 hours
+young,Female,1.6,44,"Science and Technology;Health Care;Academic (Professor , Teachers , etc);Design and Architecture;Student;Primary sector (raw material based industry like Agriculture , Mining , etc);Social media based industry ( instagram influencer , youtuber , etc )",rarely,1,2,2,1,0,0,0,2,7,2,2,6 to 8 hours
+young,Female,1.651,105,Science and Technology,6 days a week,10,5,3,2,1,0,2,0,3,2,1,6 to 8 hours
+young,Female,1.5243,74,Student,rarely,3,8,3,1,0,0,1,0,3,2,3,6 to 8 hours
+young,Male,1.702,60,Science and Technology;Management and Administration;Student,Once every day,6,5,4,3,1,0,2,0,2,4,4,6 to 8 hours
+young,Male,1.829,75,Science and Technology;Student,Once every day,7,6,3,4,1,1,2,1,5,2,4,6 to 8 hours
+old,Female,1.626,50,Health Care,rarely,0,8,6,4,0,1,5,0,6,3,4,6 to 8 hours
+old,Female,1.626,55,Health Care,Once every day,6,5,1,0,0,1,2,0,4,2,6,6 to 8 hours
+young,Male,1.829,80,Legal,Once every day,4,6,1,0,0,0,2,1,4,2,8,6 to 8 hours
+old,Female,1.524,43,Design and Architecture,3 to 5 days a week,3,6,1,4,0,0,4,0,6,2,3,more than 8 hours
+young,Male,1.727,60,fitness industry,Twice a day,10,1,1,4,2,2,5,1,6,1,8,6 to 8 hours
+young,Female,1.651,53,Student,3 to 5 days a week,5,10,6,2,0,1,1,0,9,3,6,6 to 8 hours
+old,Male,1.5241,70,Bureaucracy,once a week,3,7,4,2,0,1,2,0,5,3,7,less than 6 hours
+young,Female,1.727,55,Science and Technology;Student,Once every day,2,8,5,4,1,1,2,1,7,4,4,6 to 8 hours
+young,Female,1.651,75,Student,rarely,6,10,8,9,9,9,9,10,9,5,2,less than 6 hours
+young,Female,1.6,47,"Glamour industry (modelling , acting , music , etc);Social media based industry ( instagram influencer , youtuber , etc )",Twice a day,6,6,1,6,0,2,2,0,4,3,1,more than 8 hours
+teen,Female,1.651,55,Hospitality and Service,3 to 5 days a week,4,1,1,6,1,1,5,0,5,1,8,6 to 8 hours
+young,Male,1.702,61.5,Student,Once every day,5,8,5,1,0,0,1,1,8,4,1,6 to 8 hours
+young,Male,1.778,68,Student,Only on week-ends ( or 2 days a week),5,9,6,1,2,0,1,0,5,2,6,6 to 8 hours
+teen,Female,1.6,64,Student,3 to 5 days a week,8,6,3,3,0,0,1,1,2,3,2,6 to 8 hours
+young,Female,1.727,55,Student,rarely,1,6,4,2,0,1,2,1,4,3,8,6 to 8 hours
+young,Male,1.778,80,Science and Technology,3 to 5 days a week,5,8,6,3,0,1,3,2,8,2,3,6 to 8 hours
+old,Female,1.575,50,Finance,once a week,2,6,5,6,0,2,5,0,6,3,1,less than 6 hours
+young,Male,1.5249,72,Science and Technology;Student,rarely,3,3,1,2,1,0,1,0,1,5,8,6 to 8 hours
+young,Male,1.778,75,Science and Technology,Only on week-ends ( or 2 days a week),5,6,3,3,1,0,1,1,6,2,1,less than 6 hours
+young,Female,1.626,65,Science and Technology;Student,Once every day,4,8,5,2,0,0,3,1,5,3,2,less than 6 hours
+young,Male,1.702,56,Student,rarely,1,8,3,3,2,0,2,0,5,3,4,6 to 8 hours
+teen,Male,1.5249,83,Student,rarely,3,9,6,1,0,0,3,1,3,2,2,6 to 8 hours
+teen,Female,1.499,43,Science and Technology,3 to 5 days a week,5,9,8,2,0,0,2,3,4,2,7,6 to 8 hours
+young,Female,1.5241,55,"Marketing;Freelancer;Social media based industry ( instagram influencer , youtuber , etc )",Once every day,5,8,1,2,0,1,3,0,4,2,5,more than 8 hours
+young,Female,1.524,45,Legal;Student,once a week,1,4,2,1,0,3,5,2,6,2,6,6 to 8 hours
+young,Female,1.524,50,Science and Technology;Student,never,0,5,1,4,2,2,6,1,6,4,2,less than 6 hours
+old,Female,1.5241,60,Management and Administration,3 to 5 days a week,2,5,2,0,0,0,6,2,6,2,5,6 to 8 hours
+old,Female,1.676,50,Health Care,Once every day,5,4,2,1,0,1,3,1,6,2,6,6 to 8 hours
+young,Female,1.524,64,Science and Technology,rarely,2,8,2,1,0,0,1,1,3,3,6,6 to 8 hours
+young,Male,1.8292,70,Science and Technology,6 days a week,9,3,2,2,0,1,4,0,9,3,4,less than 6 hours
+young,Female,1.524,50,Finance,Only on week-ends ( or 2 days a week),1,7,3,5,2,3,6,2,8,4,4,less than 6 hours
+young,Female,1.6,76,Science and Technology;Student,Once every day,7,10,5,5,0,0,6,0,3,2,7,6 to 8 hours
+young,Female,1.651,53,Science and Technology;Student,rarely,1,2,1,2,0,1,1,1,2,2,2,6 to 8 hours
+young,Female,1.676,55,Science and Technology;Student,Once every day,5,6,1,2,1,1,4,0,5,3,3,6 to 8 hours
+young,Female,1.626,50,Student,Only on week-ends ( or 2 days a week),4,10,9,1,0,0,0,1,8,2,4,6 to 8 hours
+young,Female,1.5244,51,Science and Technology,rarely,4,10,2,5,2,1,2,2,3,3,2,less than 6 hours
+young,Female,1.5241,55,Student,Once every day,2,7,3,0,0,0,2,1,10,1,2,6 to 8 hours
+young,Female,5.7,65,Student,rarely,5,8,6,3,2,1,4,1,2,2,3,6 to 8 hours
+teen,Female,1.676,85,Student;Freelancer,rarely,3,10,5,4,0,0,3,2,6,2,10,6 to 8 hours
+young,Female,1.626,53,Science and Technology;Student,rarely,1,10,9,1,0,0,1,0,10,2,1,6 to 8 hours
+teen,Female,1.6,72,Student,3 to 5 days a week,8,8,5,4,0,0,1,1,4,5,2,6 to 8 hours
+teen,Female,1.524,50,"Science and Technology;Finance;Legal;Management and Administration;Student;Freelancer;Social media based industry ( instagram influencer , youtuber , etc )",rarely,3,4,4,2,0,0,1,0,9,2,2,6 to 8 hours
+young,Female,5,45,Science and Technology,rarely,1,6,6,5,6,5,6,6,6,5,5,less than 6 hours
+young,Female,1.6,76,Student,Only on week-ends ( or 2 days a week),7,9,7,2,0,1,2,1,6,3,3,6 to 8 hours
+young,Female,1.524,46,"Hospitality and Service;Glamour industry (modelling , acting , music , etc);Social media based industry ( instagram influencer , youtuber , etc )",Twice a day,6,5,1,1,0,1,2,0,6,2,6,6 to 8 hours
+young,Female,1.702,55,Student,never,0,10,10,1,1,1,1,1,5,2,1,6 to 8 hours
+young,Female,1.549,65,Science and Technology;Student,never,1,7,3,1,0,1,1,0,5,4,2,6 to 8 hours
+teen,Female,1.651,63,Science and Technology;Management and Administration;Student,Once every day,7,10,8,2,0,0,1,0,1,4,1,less than 6 hours
+young,Female,1.676,65,Marketing;Student,once a week,1,6,2,5,0,2,6,0,7,3,6,more than 8 hours
+teen,Female,1.5249,59,"Science and Technology;Marketing;Academic (Professor , Teachers , etc);Student",3 to 5 days a week,7,8,7,1,0,0,0,2,3,2,4,6 to 8 hours
+young,Female,1.575,47,Management and Administration;Student,Once every day,4,5,2,1,0,1,2,0,5,2,5,more than 8 hours
+young,Female,1.575,75,Student,3 to 5 days a week,7,10,3,4,1,0,3,0,5,5,5,more than 8 hours
+young,Female,1.5244,46,Science and Technology,6 days a week,5,10,10,1,2,0,2,3,5,4,4,6 to 8 hours
+young,Female,1.6,50,Legal;Student,once a week,5,5,2,2,0,2,2,1,5,2,7,6 to 8 hours
+old,Female,1.626,65,Design and Architecture,never,0,6,2,3,0,2,4,0,6,3,2,less than 6 hours
+young,Female,1.524,50,Health Care,Once every day,6,4,1,0,0,1,4,0,4,1,6,more than 8 hours
+old,Female,1.524,47,Marketing,3 to 5 days a week,3,6,2,5,0,2,7,3,7,3,5,less than 6 hours
+young,Female,1.6,52,Bureaucracy;Finance;Legal,3 to 5 days a week,5,5,2,1,1,1,2,1,4,2,5,6 to 8 hours
+young,Female,1.5242,52,Student,6 days a week,9,7,6,1,0,0,1,1,6,2,4,6 to 8 hours
+young,Male,1.778,75,Hospitality and Service,3 to 5 days a week,5,2,1,2,1,1,3,0,4,2,8,6 to 8 hours
+old,Male,1.8291,80,Bureaucracy;Defence / law  enforcement,Once every day,7,4,1,0,0,0,3,0,4,1,8,6 to 8 hours
+young,Male,1.5241,60,Student,never,0,7,3,2,0,1,3,1,6,2,1,6 to 8 hours
+young,Female,1.5241,70,Science and Technology,6 days a week,2,4,4,5,3,2,4,4,7,2,2,6 to 8 hours
+teen,Female,1.626,58,Student,Twice a day,6,5,3,2,0,0,1,0,8,2,4,6 to 8 hours
+young,Female,1.651,55,Marketing;Student;Freelancer,once a week,4,6,4,6,2,2,5,1,6,3,6,6 to 8 hours
+young,Female,1.499,50,Design and Architecture,once a week,3,6,4,0,1,3,7,2,6,3,3,more than 8 hours
+young,Male,1.829,85,Legal,Once every day,6,6,4,1,1,1,2,1,5,2,7,6 to 8 hours
+teen,Female,1.702,46.6,Science and Technology,3 to 5 days a week,7,6,6,2,0,0,7,2,5,2,4,6 to 8 hours
+teen,Female,1.6,54,Student,rarely,1,7,5,2,0,1,0,0,7,2,2,6 to 8 hours
+teen,Female,1.575,50,Science and Technology;Student,Only on week-ends ( or 2 days a week),6,5,2,1,0,0,1,0,3,2,1,6 to 8 hours
+young,Male,1.8292,90,"Academic (Professor , Teachers , etc);Design and Architecture",Once every day,5,2,4,2,4,3,5,1,6,3,5,less than 6 hours
+young,Male,1.778,75,Marketing;Student,Once every day,5,5,1,2,2,1,3,1,5,1,6,6 to 8 hours
+young,Male,1.829,80,Legal;Student,Once every day,6,5,1,0,0,0,2,0,4,1,8,more than 8 hours
+old,Male,1.829,80,Management and Administration,Once every day,6,6,2,2,1,1,2,1,5,3,4,6 to 8 hours
+young,Male,1.727,80,Health Care;Student,3 to 5 days a week,3,7,4,3,3,3,5,2,8,3,4,less than 6 hours
+young,Male,1.5249,70,Design and Architecture;Student;Freelancer,Once every day,5,6,5,1,2,1,2,0,4,2,5,6 to 8 hours
+young,Male,1.702,60,Bureaucracy,3 to 5 days a week,5,4,2,0,1,1,3,2,5,2,5,more than 8 hours
+young,Male,1.829,81,Bureaucracy,rarely,1,8,6,4,3,2,4,0,7,4,3,more than 8 hours
+old,Male,1.702,65,Hospitality and Service,Once every day,6,2,1,1,1,1,1,1,4,1,10,6 to 8 hours
+old,Male,1.8291,80,"Primary sector (raw material based industry like Agriculture , Mining , etc)",Once every day,5,1,1,0,0,0,2,0,2,1,10,6 to 8 hours
+young,Male,1.778,65,fitness industry,Twice a day,8,1,1,2,1,1,2,0,3,1,10,more than 8 hours
+old,Male,1.778,100,"Health Care;Academic (Professor , Teachers , etc)",never,0,7,6,5,3,1,5,0,6,3,4,less than 6 hours
+young,Male,1.5249,75,Management and Administration;Student,Once every day,4,7,4,0,1,0,5,1,5,2,7,more than 8 hours
+old,Male,1.8291,80,Bureaucracy,Once every day,7,5,3,0,0,0,2,0,4,2,10,6 to 8 hours
+young,Female,1.575,65,Science and Technology;Student,Only on week-ends ( or 2 days a week),6,10,7,3,0,0,4,0,8,2,2,less than 6 hours
+young,Female,1.5247,58,Science and Technology,once a week,7,5,4,5,0,0,5,0,3,2,1,6 to 8 hours
+young,Male,1.5241,70,Design and Architecture;Student,Only on week-ends ( or 2 days a week),3,9,5,3,0,0,6,0,6,3,3,less than 6 hours
+young,Male,1.778,80,Finance;Student,3 to 5 days a week,3,7,4,0,2,1,4,0,5,3,7,6 to 8 hours
+young,Female,1.524,64,Student,rarely,4,8,3,2,1,1,1,1,1,2,2,more than 8 hours
+young,Female,1.52431,47,Student,rarely,2,7,7,6,6,1,5,4,4,2,5,less than 6 hours
+old,Male,1.829,80,Health Care,Once every day,6,5,5,2,0,0,2,0,5,2,8,6 to 8 hours
+young,Male,1.727,75,Bureaucracy;Legal;Defence / law  enforcement,3 to 5 days a week,4,5,4,0,0,0,2,0,4,2,7,6 to 8 hours
+young,Male,1.829,80,Management and Administration;Marketing,6 days a week,7,7,4,0,0,0,3,0,5,3,7,6 to 8 hours
+young,Male,1.727,70,"Finance;Student;Social media based industry ( instagram influencer , youtuber , etc )",3 to 5 days a week,4,6,5,2,0,0,4,0,6,3,4,6 to 8 hours
+young,Male,1.8291,80,"Primary sector (raw material based industry like Agriculture , Mining , etc)",Once every day,6,3,2,1,1,1,1,0,4,1,10,more than 8 hours
+young,Male,1.5249,70,Health Care,Once every day,5,5,4,0,0,0,2,0,2,2,10,6 to 8 hours
+young,Male,1.5249,75,Finance;Student,Once every day,5,8,5,3,1,1,3,0,5,2,8,more than 8 hours
+young,Female,1.778,78,Student,rarely,2,2,2,2,0,1,3,6,2,4,4,6 to 8 hours
+young,Male,1.803,95,Legal,3 to 5 days a week,4,7,4,0,0,0,6,0,6,3,8,more than 8 hours
+young,Male,1.727,65,"Marketing;Social media based industry ( instagram influencer , youtuber , etc )",3 to 5 days a week,6,7,4,1,1,1,3,0,5,3,5,6 to 8 hours
+young,Male,1.803,75,Hospitality and Service,Once every day,8,2,1,3,0,0,2,0,4,1,9,less than 6 hours
+young,Male,1.5249,79,Bureaucracy,3 to 5 days a week,4,6,2,0,0,0,6,0,5,1,7,less than 6 hours
+young,Male,1.829,75,Marketing,6 days a week,6,7,4,2,1,2,5,1,5,1,5,more than 8 hours
+old,Male,1.727,85,Legal,rarely,1,9,5,4,3,3,5,2,7,4,4,less than 6 hours
+old,Male,1.8292,100,Management and Administration,3 to 5 days a week,3,6,5,4,1,1,5,1,6,3,5,more than 8 hours
+old,Male,1.8293,80,Health Care,3 to 5 days a week,5,3,2,1,1,0,1,2,3,3,4,6 to 8 hours
+young,Male,1.829,75,Design and Architecture,3 to 5 days a week,5,6,4,1,2,1,2,0,6,2,4,less than 6 hours
+old,Female,1.5243,79,"Science and Technology;Health Care;Hospitality and Service;Bureaucracy;Finance;Legal;Management and Administration;Marketing;Academic (Professor , Teachers , etc);Design and Architecture;Student;Defence / law  enforcement;Freelancer;fitness industry;Glamour industry (modelling , acting , music , etc);Primary sector (raw material based industry like Agriculture , Mining , etc);Social media based industry ( instagram influencer , youtuber , etc )",never,0,1,1,2,2,0,10,0,10,6,3,more than 8 hours
+teen,Male,1.5241,53.5,Student,Once every day,4,2,1,1,1,1,3,0,5,5,6,6 to 8 hours
+old,Male,1.829,69,Defence / law  enforcement,Once every day,7,1,1,0,0,0,0,0,0,1,10,more than 8 hours
+teen,Female,1.626,50,Health Care;Student,3 to 5 days a week,3,6,4,3,1,1,4,0,5,2,5,6 to 8 hours
+young,Male,1.5249,65,"Academic (Professor , Teachers , etc)",Once every day,4,7,3,0,0,0,3,0,5,2,7,6 to 8 hours
+young,Female,1.651,64,Design and Architecture;Student;Freelancer,Once every day,9,1,3,3,0,0,3,2,5,6,3,more than 8 hours
+young,Male,1.778,85,Design and Architecture,Only on week-ends ( or 2 days a week),6,7,4,2,0,0,3,0,5,2,6,more than 8 hours
+young,Female,1.524,45,"fitness industry;Social media based industry ( instagram influencer , youtuber , etc )",Once every day,7,7,4,2,0,1,2,1,7,2,6,6 to 8 hours
+young,Male,1.829,90,Finance;Management and Administration,Once every day,3,7,4,3,1,1,4,1,6,3,5,6 to 8 hours
+young,Male,1.702,60,Defence / law  enforcement,6 days a week,7,3,2,1,1,1,2,1,4,1,10,6 to 8 hours
+old,Male,1.8291,85,Finance;Legal,3 to 5 days a week,7,8,5,1,1,1,2,0,5,2,6,6 to 8 hours
+young,Male,1.803,78,Marketing,6 days a week,6,6,3,2,0,1,3,0,4,2,7,6 to 8 hours
+young,Female,1.651,49,Design and Architecture,3 to 5 days a week,3,7,4,0,0,0,5,0,5,2,6,6 to 8 hours
+young,Female,1.5241,65,Legal,6 days a week,2,8,4,3,1,1,3,0,5,2,7,6 to 8 hours
+young,Male,1.803,75,Freelancer;fitness industry,6 days a week,6,1,1,3,1,2,3,1,5,1,10,6 to 8 hours
+young,Female,1.6,50,"Freelancer;Social media based industry ( instagram influencer , youtuber , etc )",6 days a week,6,7,4,2,1,0,2,0,5,3,6,6 to 8 hours
+old,Female,1.499,45,"fitness industry;Social media based industry ( instagram influencer , youtuber , etc )",6 days a week,7,4,3,0,0,0,1,0,0,1,7,6 to 8 hours
+young,Female,1.676,56,Marketing,3 to 5 days a week,4,7,4,0,0,0,6,3,5,2,6,6 to 8 hours
+old,Male,1.727,76,Hospitality and Service,3 to 5 days a week,5,5,3,2,1,0,2,1,5,3,5,6 to 8 hours
+young,Male,1.5249,79,Finance,Only on week-ends ( or 2 days a week),3,6,2,1,0,0,2,2,4,3,5,less than 6 hours
+young,Female,1.5242,71,Student,Only on week-ends ( or 2 days a week),1,9,2,3,0,0,4,2,4,3,1,6 to 8 hours
+teen,Female,1.5244,50,Student,never,0,2,1,0,0,0,1,0,1,1,5,less than 6 hours
+young,Male,1.5249,65,"Glamour industry (modelling , acting , music , etc)",Once every day,5,6,2,3,1,2,3,2,3,5,4,6 to 8 hours
+young,Male,1.5249,76,"Freelancer;fitness industry;Glamour industry (modelling , acting , music , etc);Social media based industry ( instagram influencer , youtuber , etc )",6 days a week,7,5,1,3,0,1,2,0,5,2,6,6 to 8 hours
+young,Female,1.575,46,Legal,3 to 5 days a week,5,8,4,0,0,0,6,0,5,2,6,6 to 8 hours
+young,Male,1.803,85,Marketing,3 to 5 days a week,5,7,4,3,1,1,3,1,5,3,6,6 to 8 hours
+young,Female,1.5241,48,Design and Architecture,6 days a week,4,7,5,2,1,1,3,1,5,2,5,6 to 8 hours
+young,Male,1.778,78,Legal,3 to 5 days a week,5,7,4,0,0,0,4,0,4,2,7,6 to 8 hours
+young,Male,1.5249,75,Hospitality and Service,3 to 5 days a week,5,1,1,6,2,1,5,1,5,1,10,6 to 8 hours
+old,Male,1.829,81,Legal,Only on week-ends ( or 2 days a week),4,3,1,0,1,0,1,2,3,3,4,6 to 8 hours
+young,Female,1.676,72,Management and Administration,once a week,5,3,2,1,0,0,1,1,3,3,4,less than 6 hours
+young,Female,1.651,68,Hospitality and Service,Only on week-ends ( or 2 days a week),3,5,1,1,0,0,2,1,3,2,5,6 to 8 hours
+young,Male,1.8292,78,"Glamour industry (modelling , acting , music , etc)",3 to 5 days a week,5,4,2,1,1,0,1,1,4,3,3,less than 6 hours
+young,Male,1.702,70,"Primary sector (raw material based industry like Agriculture , Mining , etc)",once a week,7,2,2,1,0,0,1,0,3,2,3,6 to 8 hours
+old,Male,1.727,77,"Academic (Professor , Teachers , etc)",Only on week-ends ( or 2 days a week),4,5,1,0,1,0,1,1,3,3,4,6 to 8 hours
+young,Male,1.803,79,Bureaucracy,6 days a week,6,7,3,2,1,1,3,1,5,2,7,6 to 8 hours
+young,Female,1.626,50,Health Care;Student,3 to 5 days a week,4,6,6,2,0,0,2,0,5,2,8,6 to 8 hours
+young,Male,1.8291,75,"Glamour industry (modelling , acting , music , etc)",Twice a day,8,2,1,4,0,4,2,0,4,1,7,6 to 8 hours
+young,Female,1.626,55,Marketing,3 to 5 days a week,4,6,4,4,1,2,5,2,5,3,6,6 to 8 hours
+young,Female,1.6,55,Bureaucracy,rarely,2,10,7,4,0,2,6,3,7,3,6,6 to 8 hours
+young,Male,1.829,79,Hospitality and Service,6 days a week,7,4,4,2,2,1,1,1,4,3,7,6 to 8 hours
+young,Female,1.6,75,Freelancer,once a week,6,6,3,1,1,0,2,2,5,2,2,less than 6 hours
+old,Male,1.727,74,"Primary sector (raw material based industry like Agriculture , Mining , etc)",3 to 5 days a week,6,1,2,0,0,0,1,1,4,1,3,6 to 8 hours
+teen,Female,1.626,61,"Social media based industry ( instagram influencer , youtuber , etc )",6 days a week,4,7,2,8,1,3,3,1,7,3,1,6 to 8 hours
+teen,Female,1.651,51,Student,3 to 5 days a week,3,2,3,0,0,0,2,0,3,1,8,6 to 8 hours
+young,Female,1.6,65,Management and Administration,rarely,1,5,3,2,1,4,5,1,7,6,3,more than 8 hours
+young,Male,1.5247,80,Bureaucracy,once a week,1,7,4,2,3,7,4,1,8,4,4,6 to 8 hours
+young,Female,1.575,52,Health Care,6 days a week,3,4,4,1,1,2,2,2,4,2,7,6 to 8 hours
+young,Female,1.651,58,"Glamour industry (modelling , acting , music , etc)",Once every day,8,3,1,1,0,2,1,1,4,2,5,6 to 8 hours
+young,Female,1.626,67,Design and Architecture,Only on week-ends ( or 2 days a week),7,6,2,0,0,0,1,1,4,3,2,less than 6 hours
+young,Female,1.6,55,Health Care,6 days a week,6,3,2,0,0,0,0,1,3,2,7,less than 6 hours
+old,Male,1.727,72,Marketing,3 to 5 days a week,6,3,2,1,1,0,0,2,3,2,5,less than 6 hours
+young,Female,1.626,60,"Social media based industry ( instagram influencer , youtuber , etc )",Once every day,6,6,2,2,0,1,2,1,3,3,3,less than 6 hours
+old,Female,1.6,56,"Academic (Professor , Teachers , etc)",3 to 5 days a week,8,4,3,1,0,0,1,3,3,2,4,less than 6 hours
+young,Female,1.575,58,Design and Architecture,rarely,1,8,5,4,2,3,4,2,6,4,6,6 to 8 hours
+young,Male,1.702,60,fitness industry,Twice a day,9,1,1,4,0,1,2,0,4,1,10,6 to 8 hours
